@@ -33,7 +33,7 @@
   <a href="mailto:vatsavaivinayvarma@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/vinay-varma-69a28b276/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 </p>
