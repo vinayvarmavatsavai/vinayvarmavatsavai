@@ -60,7 +60,7 @@
 - Completed AWS Cloud training with hands-on exposure to **EC2, VPC, IAM, Route 53, RDS, CloudWatch and hybrid networking**
 - Earned **AWS Cloud Practitioner Certification**
 - Achieved **Microsoft Azure AI-900 Certification**
-- Worked on **Agentic AI development**, including Agent Decay concepts and intelligent automation workflows
+- Worked on **Agentic AI development**, including agent-based automation concepts and intelligent workflows
 - Supported development activities in cross-functional engineering teams using Agile practices
 - Worked on UI interaction workflows, debugging, environment setup, testing and cloud-based implementation activities
 
@@ -69,6 +69,7 @@
 ## 🚀 Featured Projects
 
 ### Hustle Trail — MERN Stack Career Development Platform  
+
 A self-developed full-stack career platform built using **React.js, Node.js, Express.js and MongoDB Atlas**.
 
 Features include:
@@ -88,21 +89,25 @@ Features include:
 ---
 
 ### Text Summarization Using NLP  
+
 Developed a web page that summarizes long text by extracting important sentences or generating concise rephrased summaries using NLP techniques.
 
 ---
 
 ### Legal Case Summarization Using NLP  
+
 Designed and developed a user-friendly website for Vintern’s legal case summarization project, helping users access summarized legal case information efficiently.
 
 ---
 
 ### Pet Robot  
+
 Developed an interactive and autonomous pet robot designed to provide entertainment, companionship and assistance for pet owners.
 
 ---
 
 ### Application of Machine Learning Algorithms on Pet Images  
+
 Applied machine learning algorithms to pet images to predict pet age and track growth over time.
 
 ---
@@ -159,9 +164,9 @@ CGPA: **10**
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinayvarmavatsavai&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinayvarmavatsavai&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayvarmavatsavai&theme=tokyonight" />
+<img width="48%" src="https://streak-stats.demolab.com?user=vinayvarmavatsavai&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -171,7 +176,7 @@ CGPA: **10**
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayvarmavatsavai&layout=compact&theme=tokyonight" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayvarmavatsavai&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
