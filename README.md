@@ -160,45 +160,38 @@ CGPA: **10**
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinayvarmavatsavai&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://streak-stats.demolab.com?user=vinayvarmavatsavai&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td align="center">
+<b>Profile</b><br>
+<a href="https://github.com/vinayvarmavatsavai">vinayvarmavatsavai</a>
+</td>
+<td align="center">
+<b>Focus Areas</b><br>
+MERN Stack · Cloud · AI/ML · NLP
+</td>
+<td align="center">
+<b>Main Project</b><br>
+Hustle Trail
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🔥 Most Used Languages
+## 🔥 Currently Working On
 
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayvarmavatsavai&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vinayvarmavatsavai&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vinayvarmavatsavai/vinayvarmavatsavai/output/snake.svg" alt="Snake animation" />
-
-</div>
+- Improving full-stack development skills
+- Building scalable MERN stack projects
+- Learning cloud-based application deployment
+- Exploring AI, NLP and automation workflows
+- Strengthening GitHub portfolio with production-level projects
 
 ---
 
